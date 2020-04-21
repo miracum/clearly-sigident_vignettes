@@ -1,0 +1,9 @@
+/*
+/*/
+!/*.html
+!/README.md
+!/.gitignore
+!/sigident/
+!/sigident.func/
+!/sigident.preproc/
+
